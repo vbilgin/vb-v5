@@ -1,0 +1,20 @@
+I"�<h1 id="the-purpose">The Purpose</h1>
+<p>Why do I need a blog? Well, I don’t. But it’s nice to have. And I had my domain name collecting dust so I figured I’d use it.</p>
+
+<p>I’ve actually tried this whole blogging thing a few times. Every time I got all set up, I found I had too much to write about. My blogs always reflected my interests. And I have <em>a lot</em> of them. So I had analysis paralysis - I couldn’t decide what to write about first so I didn’t write anything at all.</p>
+
+<p>Which brings me to this site. What’s different? Well, for one, this blog is (for now at least) solely dedicated to IT and cybersecurity. No more avalanche of options.</p>
+
+<p>But I haven’t answered the actual question. <em>Why</em> do I <em>need</em> a blog? Because I want to showcase the projects that I’m doing and the interesting things I’m learning. I want to show people (whether it be an IT Manager looking to hire or a random person on the Internet looking for inspiration) that I did these things and usually had fun while doing so.</p>
+
+<h1 id="the-tools">The Tools</h1>
+
+<h2 id="jekyll">Jekyll</h2>
+<p>I found Jekyll while looking at how people in the cybersecurity community make their blogs. Quite a few use/used Jekyll so I figured it was worth a quick read. And it definitely  was. For those that aren’t aware (the best way to learn more is to follow along with their step-by-step guide here), Jekyll is a <strong>static site generator</strong> that creates HTML from Markdown.</p>
+
+<h2 id="butane-theme-by-alex-carpenter">Butane Theme by Alex Carpenter</h2>
+
+<h2 id="github-pages">GitHub Pages</h2>
+
+<h1 id="the-execution">The Execution</h1>
+:ET

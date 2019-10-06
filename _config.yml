@@ -1,0 +1,16 @@
+# Site settings
+title: Victor Bilgin
+description: >
+    Victor Bilgin
+author: Victor Bilgin
+email: youremail@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: / # the base hostname & protocol for your site
+github_username:  vbilgin
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed

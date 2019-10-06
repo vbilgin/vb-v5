@@ -1,0 +1,47 @@
+I"~<section class="c-archives">
+
+    
+    
+
+    
+        <h2 class="c-archives__year" id="2019-ref">2019</h2>
+        <ul class="c-archives__list">
+    
+        <li class="c-archives__item">
+            <h3><a href="/my-home-lab/">My Home Lab</a></h3>
+            <p>Oct 1, 2019</p>
+        </li>
+    
+        
+    
+
+    
+    
+
+    
+        <li class="c-archives__item">
+            <h3><a href="/creating-a-personal-blog-with-jekyll-and-github-pages/">Creating a Personal Blog with Jekyll and GitHub Pages</a></h3>
+            <p>Oct 1, 2019</p>
+        </li>
+    
+        
+        </ul>
+        <h2 class="c-archives__year" id="2018-ref">2018</h2>
+        <ul class="c-archives__list">
+        
+    
+
+    
+    
+
+    
+        <li class="c-archives__item">
+            <h3><a href="/2018/08/apples">Apples</a></h3>
+            <p>Aug 21, 2018</p>
+        </li>
+    
+        </ul>
+    
+
+</section>
+:ET

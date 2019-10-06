@@ -1,0 +1,18 @@
+I"<h1 id="the-hardware">The Hardware</h1>
+
+<h2 id="27u-4-post-open-fram-rack">27U 4 Post Open Fram Rack</h2>
+
+<h2 id="ubiquiti-edgerouter-lite-erlite-3">Ubiquiti EdgeRouter Lite (ERLite-3)</h2>
+
+<h2 id="cisco-3750g-24t-s-switch">Cisco 3750G-24T-S Switch</h2>
+
+<h2 id="dell-poweredge-r710">Dell PowerEdge R710</h2>
+<p>Specs:</p>
+<ul>
+  <li>2x Intel Xeon X5570 - 2.93GHz Quad Core Processors</li>
+  <li>32GB ECC RAM</li>
+  <li>(Currently) 1x 250GB Samsung 850 EVO SSD + 2x 1TB WD HDDs</li>
+</ul>
+
+<h1 id="the-software">The Software</h1>
+:ET

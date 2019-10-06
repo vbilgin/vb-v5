@@ -3,7 +3,7 @@ layout: content
 title: Hi!
 ---
 
-I'm Victor, an aspiring IT professional with the end goal of working in cybersecurity. Read more about me [here](/about). This blog is dedicated to write-ups about general IT topics and cybersecurity. The posts here are not guides but moreso a journal of my experiences with different projects and topics. Find some recent posts below:
+I'm **Victor**, an aspiring IT professional with the end goal of working in cybersecurity. Read more about me [here](/about). This blog is dedicated to write-ups about general IT topics and Cybersecurity. The posts here are not guides but moreso a journal of my experiences with different projects and topics. Find some recent posts below:
 
 ## Latest Posts
 <ul>

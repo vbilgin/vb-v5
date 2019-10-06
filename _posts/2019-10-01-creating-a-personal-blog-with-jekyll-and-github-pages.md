@@ -16,8 +16,10 @@ But I haven't answered the actual question. *Why* do I *need* a blog? Because I 
 
 # The Tools
 
-## Jekyll
-I found Jekyll while looking at how people in the cybersecurity community make their blogs. Quite a few use/used Jekyll so I figured it was worth a quick read. And it definitely  was. For those that aren't aware (the best way to learn more is to follow along with their step-by-step guide here), Jekyll is a **static site generator** that creates HTML from Markdown.
+## [Jekyll](https://jekyllrb.com/){:target="_blank"}
+I found Jekyll while looking at how people in the cybersecurity community make their blogs. Quite a few use/used Jekyll so I figured it was worth a quick read. And it definitely  was. For those that aren't aware, Jekyll is a **static site generator** that creates HTML from Markdown. It is built with Ruby and uses the [Liquid](https://shopify.github.io/liquid/){:target="_blank"} templating language to process templates. Jekyll also uses [Sass](https://sass-lang.com/){:target="_blank"} for styling.
+
+There is a bit of learning curve when it comes to the file structure and Liquid syntax but nothing intimidating. I took some time to read through the [step-by-step guide](https://jekyllrb.com/docs/step-by-step/01-setup/){:target="_blank"} as well as 
 
 ## Butane Theme by Alex Carpenter
 

@@ -4,8 +4,8 @@ description: >
     Victor Bilgin
 author: Victor Bilgin
 email: youremail@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: / # the base hostname & protocol for your site
+baseurl: "victorbilgin.com" # the subpath of your site, e.g. /blog
+url: https://victorbilgin.com # the base hostname & protocol for your site
 github_username:  vbilgin
 
 # Build settings

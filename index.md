@@ -3,7 +3,7 @@ layout: content
 title: Hi!
 ---
 
-I'm **Victor**, an aspiring IT professional. Read more about me [here](/about). This blog is dedicated to write-ups about IT topics with a focus on InfoSec. The posts here are not guides but moreso a journal of my experiences with different projects and topics. 
+I'm **Victor**, an aspiring IT professional. Read more about me [here](/about). This blog is dedicated to write-ups about IT topics. The posts here are not guides but moreso a journal of my experiences with different projects and topics. 
 
 <!-- ## Latest Posts
 <ul>

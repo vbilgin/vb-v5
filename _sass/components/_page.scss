@@ -13,10 +13,15 @@
         margin-bottom: 2.5rem; // 25px
         @include fs--heading-2;
         color: $c-base__02;
+        font-size: 4.25rem;
     }
 
     p {
         @include fs--meta;
+    }
+
+    a {
+        font-size: 3rem;
     }
 }
 

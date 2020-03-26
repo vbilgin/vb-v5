@@ -1,21 +1,20 @@
 <footer class="c-page__footer">
     <p>&copy; {{ site.author }} {{ 'now' | date: '%Y' }}</p>
-    <p>Follow: 
+    <p>
+        {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
 
-    {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+        <span class="u-separate"></span>
 
-    <span class="u-separate"></span>
+        {% endif %}
 
-    {% endif %}
+        {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}">Github</a>
 
-    {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}">Github</a>
-    
-    {% endif %}
+        {% endif %}
 
-    <span class="u-separate"></span>
+        <span class="u-separate"></span>
 
-    {% if site.linkedin_username %}<a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a>
-    
-    {% endif %}
+        {% if site.linkedin_username %}<a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a>
+
+        {% endif %}
     </p>
 </footer>

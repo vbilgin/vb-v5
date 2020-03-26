@@ -1,10 +1,2 @@
 - name: Home
   link: /
-- name: Posts
-  link: /posts
-- name: Now
-  link: /now
-- name: About
-  link: /about
-- name: Links
-  link: /links

@@ -1,17 +1,48 @@
 ---
 layout: content
-title: Hi!
+title: Hello!
+---
+I'm **Victor**, an aspiring IT professional. This is my personal site. I treat it like my little corner of the Internet. Sometimes you'll see a blog post or two. Other times you might find a new project being showcased. And still other times you may find nothing at all. Go ahead and explore! 
+
+*See you on the other side.*
+
 ---
 
-I'm **Victor**, an aspiring IT professional. Read more about me [here](/about). This blog is dedicated to write-ups about IT topics. The posts here are not guides but moreso a journal of my experiences with different projects and topics. 
+# Recent posts ↓
 
-<!-- ## Latest Posts
-<ul>
+Nothing here right now. Check back later.
+
+<!-- <ul>
   {% for post in site.posts limit:3 %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
       <br/>
     </li>
   {% endfor %}
-</ul> -->
+</ul>
+
+#### [See all posts.](/posts) -->
+
+---
+
+# What I'm doing now ↓
+I'm sheltering in place like (hopefully) most of the people in US, Europe, and Asia. I'm thankful that with my new job I'm able to work from home. So now I'm taking time to learn the current company's IT infrastructure.
+
+I'm also trying to get back in shape. Small steps. Smaller portion sizes here, 30 minute stationary bike ride there.
+
+And who can forget about side projects. You might see a post about one soon enough.
+
+*Updated as of 03/25/2020. What is a Now page? Learn more [on my Now page](/now).*
+
+---
+
+# About me ↓
+There's only one thing you should know about me: **I love to learn**. But, if you'd like to know more:
+
+- I was born and raised in Los Angeles, CA where I currently live.
+- I have a lot of interests. But right now I'm focused on IT (with a sub-focus on information security).
+- I'm currently attending [WGU](https://www.wgu.edu/){:target="_blank"} for their BS in Cloud and Systems Administration program. 
+- I'm also working full-time as a Help Desk Specialist at [Houlihan Lokey](https://www.hl.com/){:target="_blank"}, a global M&A leader.
+
+
+If you're looking for a summary of my professional life, please see my [LinkedIn](https://www.linkedin.com/in/victorbilgin/){:target="_blank"}.

@@ -26,11 +26,11 @@ Nothing here right now. Check back later.
 ---
 
 # What I'm doing now ↓
-I'm sheltering in place like (hopefully) most of the people in US, Europe, and Asia. I'm thankful that with my new job I'm able to work from home. So now I'm taking time to learn the current company's IT infrastructure.
+I'm sheltering in place like (hopefully) most of the people in the US, Europe, and Asia. I'm thankful to be able to work from home. And it gives me a chance to get situated in my new role.
 
 I'm also trying to get back in shape. Small steps. Smaller portion sizes here, 30 minute stationary bike ride there.
 
-And who can forget about side projects. You might see a post about one soon enough.
+And who can forget about side projects? You might see a post about one soon enough.
 
 *Updated as of 03/25/2020. What is a Now page? Learn more [on my Now page](/now).*
 

@@ -12,7 +12,7 @@ I'm **Victor**, an aspiring IT professional. This is my personal site. I treat i
 
 Nothing here right now. Check back later.
 
-<!-- <ul>
+<ul>
   {% for post in site.posts limit:3 %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -21,7 +21,7 @@ Nothing here right now. Check back later.
   {% endfor %}
 </ul>
 
-#### [See all posts.](/posts) -->
+#### [See all posts.](/posts)
 
 ---
 

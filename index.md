@@ -10,8 +10,6 @@ I'm **Victor**, an aspiring IT professional. This is my personal site. I treat i
 
 # Recent posts
 
-Nothing here right now. Check back later.
-
 <ul>
   {% for post in site.posts limit:3 %}
     <li>

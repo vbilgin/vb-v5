@@ -1,9 +1,0 @@
-_site
-_drafts
-vendor
-.idea
-.DS_Store
-.jekyll-metadata
-.sass-cache
-Gemfile.lock
-.jekyll-cache

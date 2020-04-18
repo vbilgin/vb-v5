@@ -34,6 +34,12 @@
 // === Main Nav === //
 .main_nav-header {
   @include ff--home-header;
+
+  @media only screen 
+  and (max-device-width: 700px)
+  and (max-width: 700px) {
+  @include ff--home-header(2rem);
+  }
 }
 
 .main_nav {
@@ -77,6 +83,12 @@
 // === Recent Posts === //
 .recent_posts-header {
   @include ff--home-header;
+
+  @media only screen 
+  and (max-device-width: 700px)
+  and (max-width: 700px) {
+  @include ff--home-header(2rem);
+  }
 }
 
 .recent_posts {

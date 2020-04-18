@@ -3,7 +3,7 @@
 
 // Type
 @mixin ff--home-header {
-  font-family: 'Nimbus Sans', sans-serif;
+  font-family: 'Nimbus Sans';
   font-weight: 900;
   font-size: 1.75rem;
   margin-bottom: 1rem;
@@ -23,7 +23,7 @@
 }
 
 @mixin ff--small-mono {
-  font-family: 'Input Mono', monospace;
+  font-family: 'Input Mono';
   font-size: 0.85rem;
 }
 

@@ -12,6 +12,6 @@ linkedin_username: victorbilgin
 # Build settings
 include: [_pages]
 markdown: kramdown
-permalink: /:year/:month/:title
+permalink: /:title
 sass:
     style: compressed

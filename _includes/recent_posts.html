@@ -1,0 +1,6 @@
+<h1 class="recent_posts-header">Posts</h1>
+<ul class="recent_posts">
+  {% for post in site.posts limit:100 %}
+  <li class="recent_posts-item"><a class="recent_posts-item-link" href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

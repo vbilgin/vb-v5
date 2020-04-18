@@ -1,0 +1,20 @@
+.page-title {
+  @include ff--title;
+}
+
+.page-main {
+  @include ff--content;
+
+  p {
+    margin-bottom: 2rem;
+  }
+
+  ul {
+    @include ulist;
+  }
+
+  ol {
+    @include olist;
+  }
+}
+

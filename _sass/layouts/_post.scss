@@ -1,0 +1,28 @@
+.post-title {
+  @include ff--title;
+}
+
+.post-date {
+ @include ff--reg-mono;
+ margin-bottom: 2.5rem;
+}
+
+.post-main {
+  @include ff--content;
+
+  p {
+    margin-bottom: 2rem;
+  }
+
+  ul {
+    @include ulist;
+  }
+
+  ol {
+    @include olist;
+  }
+
+  // h1 {
+  //   @include heading-1;
+  // }
+}

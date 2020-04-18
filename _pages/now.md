@@ -1,7 +1,7 @@
 ---
-layout: content
+layout: page
 title: Now
-permalink: /now/
+permalink: /now
 ---
 I'm sheltering in place like (hopefully) most of the people in the US, Europe, and Asia. I'm thankful to be able to work from home. And it gives me a chance to get situated in my new role.
 
@@ -11,4 +11,3 @@ And who can forget about side projects? You might see a post about one soon enou
 
 ---
 This page is dedicated to what I'm doing **right now**. It is inspired by Derek Sivers' [Now Now Now Project](https://nownownow.com/){:target="_blank"}.
-

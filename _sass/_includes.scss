@@ -1,0 +1,106 @@
+// === Contact === //
+.contact-email {
+  margin-bottom: 1.5rem;
+}
+.contact-link {
+  @include ff--small-mono;
+
+  @media screen and (max-width: 700px) {
+    @include ff--reg-mono;
+  }
+}
+
+.contact-social {
+  padding: 0;
+}
+
+.contact-social-item {
+  margin-bottom: 0.25rem;
+
+  @media screen and (max-width: 700px) {
+    margin-bottom: 0.5rem;
+    }
+}
+
+// === Copyright === //
+.copyright {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+ @include ff--small-mono;
+}
+
+// === Main Nav === //
+.main_nav-header {
+  @include ff--home-header;
+}
+
+.main_nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.main_nav-list {
+  padding: 0;
+  margin: 0;
+}
+
+.main_nav-item {
+  margin-bottom: 0.25rem;
+
+  @media screen and (max-width: 700px) {
+    margin-bottom: 0.5rem;
+    }
+}
+
+.main_nav-item-link {
+ @include ff--small-mono;
+
+ @media screen and (max-width: 700px) {
+  @include ff--reg-mono;
+  }
+}
+
+// === Mini Nav === //
+.mini_nav {
+  margin-bottom: 3rem;
+}
+.mini_nav-link {
+  @include ff--small-mono;
+
+  @media screen and (max-width: 700px) {
+    @include ff--reg-mono;
+  }
+ }
+
+// === Recent Posts === //
+.recent_posts-header {
+  @include ff--home-header;
+}
+
+.recent_posts {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.recent_posts-item {
+  margin-bottom: 0.25rem;
+
+  @media screen and (max-width: 700px) {
+    margin-bottom: 0.5rem;
+    }
+}
+
+.recent_posts-item-link {
+  @include ff--small-mono;
+
+  @media screen and (max-width: 700px) {
+    @include ff--reg-mono;
+  }
+}
+
+// === Rule === //
+.rule {
+  margin: 2rem 0;
+  width: 50%;
+}

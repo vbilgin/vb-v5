@@ -1,34 +1,33 @@
 @import url("https://use.typekit.net/cpn0cqw.css");
-@import url("https://use.typekit.net/cpn0cqw.css");
 
 // Type
 @mixin ff--home-header {
-  font-family: 'Nimbus Sans';
+  font-family: 'nimbus-sans', sans-serif;
   font-weight: 900;
   font-size: 1.75rem;
   margin-bottom: 1rem;
 }
 
 @mixin ff--title {
-  font-family: 'Nimbus Sans', sans-serif;
+  font-family: 'nimbus-sans', sans-serif;
   font-weight: 900;
   font-size: 1.75rem;
   margin-bottom: 1rem;
 }
 
 @mixin ff--content {
-  font-family: 'Nimbus Sans', sans-serif;
+  font-family: 'nimbus-sans', sans-serif;
   font-size: 1.35rem;
   line-height: 1.2;
 }
 
 @mixin ff--small-mono {
-  font-family: 'Input Mono';
+  font-family: 'input-mono', monospace;
   font-size: 0.85rem;
 }
 
 @mixin ff--reg-mono {
-  font-family: 'Input Mono', monospace;
+  font-family: 'input-mono', monospace;
   font-size: 1rem;
 }
 

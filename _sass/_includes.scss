@@ -3,13 +3,12 @@
   margin-bottom: 1.5rem;
 }
 .contact-link {
-  @include ff--small-mono;
+  @include ff--mono;
 
   @media only screen 
     and (max-device-width: 700px)
     and (max-width: 700px) {
-    @include ff--reg-mono;
-    background: red;
+    @include ff--mono(1.5rem);
   }
 }
 
@@ -21,7 +20,7 @@
   margin-bottom: 0.25rem;
 
   @media screen and (max-width: 700px) {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
     }
 }
 
@@ -29,7 +28,7 @@
 .copyright {
   margin-top: 2rem;
   margin-bottom: 2rem;
- @include ff--small-mono;
+ @include ff--mono;
 }
 
 // === Main Nav === //
@@ -51,15 +50,15 @@
   margin-bottom: 0.25rem;
 
   @media screen and (max-width: 700px) {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
     }
 }
 
 .main_nav-item-link {
- @include ff--small-mono;
+ @include ff--mono;
 
  @media screen and (max-width: 700px) {
-  @include ff--reg-mono;
+  @include ff--mono(1.5rem);
   }
 }
 
@@ -68,10 +67,10 @@
   margin-bottom: 3rem;
 }
 .mini_nav-link {
-  @include ff--small-mono;
+  @include ff--mono(0.85rem);
 
   @media screen and (max-width: 700px) {
-    @include ff--reg-mono;
+    @include ff--mono;
   }
  }
 
@@ -90,15 +89,15 @@
   margin-bottom: 0.25rem;
 
   @media screen and (max-width: 700px) {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
     }
 }
 
 .recent_posts-item-link {
-  @include ff--small-mono;
+  @include ff--mono(0.85rem);
 
   @media screen and (max-width: 700px) {
-    @include ff--reg-mono;
+    @include ff--mono(1.5rem);
   }
 }
 

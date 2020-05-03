@@ -10,7 +10,9 @@ github_username:  vbilgin
 linkedin_username: victorbilgin
 
 # Build settings
-include: [_pages]
+include:
+    - _pages
+    - _redirects
 markdown: kramdown
 permalink: /:title
 sass:

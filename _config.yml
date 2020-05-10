@@ -5,7 +5,7 @@ description: >
 author: Victor Bilgin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://victorbilgin.com # the base hostname & protocol for your site
-twitter_username: victor_bilgin
+twitter_username: victorbilgin
 github_username:  vbilgin
 linkedin_username: victorbilgin
 

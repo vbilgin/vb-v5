@@ -1,7 +1,7 @@
 # Site settings
 title: Victor Bilgin
 description: >
-    Victor Bilgin
+    My corner of the Internet. Read about me and the things I do/have done.
 author: Victor Bilgin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://victorbilgin.com # the base hostname & protocol for your site

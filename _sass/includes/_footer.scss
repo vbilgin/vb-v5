@@ -8,6 +8,10 @@
 
 .contact__social__item {
     margin-bottom: 1rem;
+
+    @media screen and (max-width: 700px) {
+        margin-bottom: 1.2rem;
+    }
 }
 
 .contact__social__item:last-child {
@@ -17,4 +21,8 @@
 
 .contact__link {
     @include ff-link;
+
+    @media screen and (max-width: 700px) {
+        @include ff-link(1.2rem)
+    }
 }

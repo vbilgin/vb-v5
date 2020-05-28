@@ -1,0 +1,9 @@
+.copyright {
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 0.9rem;
+
+    @media screen and (max-width: 700px) {
+        font-size: 1.2rem;
+    }
+}

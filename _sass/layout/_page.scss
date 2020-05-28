@@ -12,7 +12,15 @@
 }
 
 .post > p > a {
-    font-family: 'Arial';
-	font-weight: bold;
-	font-size: 1rem;
+    @include ff-link(1rem);
+}
+
+.post > ul > li {
+    @include ff-body;
+    margin-bottom: 1.5rem;
+}
+
+.post > ol > li {
+    @include ff-body;
+    margin-bottom: 1.5rem;
 }

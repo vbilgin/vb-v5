@@ -1,7 +1,15 @@
 .nav__mini {
     margin-bottom: 2rem;
+
+    @media screen and (max-width: 700px) {
+        margin-bottom: 3rem;
+    }
 }
 
 .nav__mini__link {
     @include ff-link;
+
+    @media screen and (max-width: 700px) {
+        @include ff-link(1.2rem)
+    }
 }

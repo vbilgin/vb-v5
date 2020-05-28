@@ -1,15 +1,13 @@
-.nav__mini {
-    margin-bottom: 2rem;
-
-    @media screen and (max-width: 700px) {
-        margin-bottom: 3rem;
-    }
+.main-nav-list {
+    @include ulist;
 }
 
-.nav__mini__link {
+.main-nav__item {
+    margin-bottom: 1rem;
     @include ff-link;
 
     @media screen and (max-width: 700px) {
+        margin-bottom: 1.2rem;
         @include ff-link(1.2rem)
     }
 }

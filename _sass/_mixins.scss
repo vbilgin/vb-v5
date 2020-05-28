@@ -1,3 +1,4 @@
+// Typography
 @mixin ff-link ($font-size: 0.9rem) {
     font-weight: bold;
     font-size: $font-size;
@@ -14,6 +15,7 @@
     line-height: 1.5;
 }
 
+// Lists
 @mixin ulist {
     list-style-type: none;
     padding: 0;

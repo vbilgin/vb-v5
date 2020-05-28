@@ -1,14 +1,13 @@
-// Base reset
+// Base styles
 @import './base';
 
-// Mixin
+// Mixins
 @import './mixins';
 
-// Layout
+// Styles for each layout
 @import './layout/container';
 @import './layout/home';
 @import './layout/page';
-
 
 // Includes
 @import './includes/nav';

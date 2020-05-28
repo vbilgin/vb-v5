@@ -1,0 +1,9 @@
+.main-nav-list {
+    @include ulist;
+}
+
+.main-nav__item {
+    margin-bottom: 1rem;
+    @include ff-link;
+}
+

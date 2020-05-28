@@ -1,0 +1,19 @@
+# Site settings
+title: Victor Bilgin
+description: >
+    My corner of the Internet. Read about me and the things I do/have done.
+author: Victor Bilgin
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://victorbilgin.com # the base hostname & protocol for your site
+twitter_username: victorbilgin
+github_username:  vbilgin
+linkedin_username: victorbilgin
+
+# Build settings
+include:
+    - _pages
+    - _redirects
+markdown: kramdown
+permalink: /:title
+sass:
+    style: compressed

@@ -1,0 +1,18 @@
+.post__title {
+    @include ff-title;
+}
+
+.post {
+    margin-bottom: 2rem;
+}
+
+.post > p {
+    @include ff-body;
+    margin-bottom: 2rem;
+}
+
+.post > p > a {
+    font-family: 'Arial';
+	font-weight: bold;
+	font-size: 1rem;
+}

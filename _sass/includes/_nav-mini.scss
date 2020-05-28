@@ -1,0 +1,7 @@
+.nav__mini {
+    margin-bottom: 2rem;
+}
+
+.nav__mini__link {
+    @include ff-link;
+}

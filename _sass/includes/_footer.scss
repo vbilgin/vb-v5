@@ -1,0 +1,20 @@
+.contact__email {
+    margin-bottom: 1.5rem;
+}
+
+.contact__social {
+    @include ulist;
+}
+
+.contact__social__item {
+    margin-bottom: 1rem;
+}
+
+.contact__social__item:last-child {
+    margin-bottom: 2rem;
+}
+
+
+.contact__link {
+    @include ff-link;
+}

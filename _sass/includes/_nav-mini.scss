@@ -10,6 +10,6 @@
     @include ff-link;
 
     @media screen and (max-width: 700px) {
-        @include ff-link(1.2rem)
+        @include ff-link(1.2rem);
     }
 }

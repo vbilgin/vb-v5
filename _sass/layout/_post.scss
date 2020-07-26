@@ -1,0 +1,26 @@
+.post__title {
+    @include ff-title;
+}
+
+.post__content {
+    margin-bottom: 2rem;
+}
+
+.post__content > p {
+    @include ff-body;
+    margin-bottom: 2rem;
+}
+
+.post__content > p > a {
+    @include ff-link(1rem);
+}
+
+.post__content > ul > li {
+    @include ff-body;
+    margin-bottom: 1rem;
+}
+
+.post__content > ol > li {
+    @include ff-body;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,23 @@
+// Typography
+@mixin ff-link ($font-size: 0.9rem) {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    font-size: $font-size;
+}
+
+@mixin ff-title ($font-size: 2.5rem) {
+    font-weight: 900;
+    font-size: $font-size;
+}
+
+@mixin ff-body {
+    font-family: 'Georgia', serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+// Lists
+@mixin ulist {
+    list-style-type: none;
+    padding: 0;
+}

@@ -1,0 +1,21 @@
+.home__title {
+    font-family: 'Arial', sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+    letter-spacing: -0.1rem;
+    margin-bottom: 2.5rem;
+}
+
+.home__nav__list {
+    @include ulist;
+}
+
+.home__nav__item {
+    margin-bottom: 1rem;
+    @include ff-link;
+
+    @media screen and (max-width: 700px) {
+        margin-bottom: 1.2rem;
+        @include ff-link(1.2rem)
+    }
+}

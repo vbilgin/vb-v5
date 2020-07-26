@@ -1,16 +1,16 @@
-// Base styles
-@import './base';
+// Utilities
+@import './utilities/base';
+@import './utilities/mixins';
+@import './utilities/container';
 
-// Mixins
-@import './mixins';
-
-// Styles for each layout
-@import './layout/container';
-@import './layout/home';
+// Layouts
 @import './layout/page';
+@import './layout/post';
+
+// Pages
+@import './pages/home';
 
 // Includes
-@import './includes/nav';
 @import './includes/nav-mini';
 @import './includes/footer';
 @import './includes/rule';

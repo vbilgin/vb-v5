@@ -1,26 +1,26 @@
-.post__header__title {
+.page__title {
     @include ff-title;
 }
 
-.post {
+.page__content {
     margin-bottom: 2rem;
 }
 
-.post > p {
+.page__content > p {
     @include ff-body;
     margin-bottom: 2rem;
 }
 
-.post > p > a {
+.page__content > p > a {
     @include ff-link(1rem);
 }
 
-.post > ul > li {
+.page__content > ul > li {
     @include ff-body;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
 }
 
-.post > ol > li {
+.page__content > ol > li {
     @include ff-body;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
 }

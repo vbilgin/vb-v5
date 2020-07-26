@@ -1,20 +1,20 @@
-<footer class="contact">
+<footer class="footer">
 
     {% include rule.html %}
     
-    <p class="contact__email"><a class="contact__link" href="mailto:hello@victorbilgin.com">hello@victorbilgin.com</a></p>
+    <p class="footer__email"><a class="footer__link" href="mailto:hello@victorbilgin.com">hello@victorbilgin.com</a></p>
   
-    <ul class="contact__social">
+    <ul class="footer__social">
       {% if site.twitter_username %}
-      <li class="contact__social__item"><a class="contact__link" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
+      <li class="footer__social__item"><a class="footer__link" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
       {% endif %}
   
       {% if site.github_username %}
-      <li class="contact__social__item"><a class="contact__link" href="https://github.com/{{ site.github_username }}">Github</a></li>
+      <li class="footer__social__item"><a class="footer__link" href="https://github.com/{{ site.github_username }}">Github</a></li>
       {% endif %}
   
       {% if site.linkedin_username %}
-      <li class="contact__social__item"><a class="contact__link" href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
+      <li class="footer__social__item"><a class="footer__link" href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
       {% endif %}
     </ul>
   
